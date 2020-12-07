@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FileTrans</string>
+    <string name="welcome_to_filetrans">Welcome to FileTrans!</string>
+    <string name="please_login_to_your_account">Please login to your account</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email address</string>
+    <string name="email">Email</string>
+    <string name="password_hint">••••••••••••</string>
+    <string name="login">Login</string>
+    <string name="remeber_me">Remeber me</string>
+    <string name="or">or</string>
+    <string name="forgot_my_password">Forgot my password</string>
+    <string name="register">Register</string>
+    <string name="account_registration">Account registration</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="registerCAP">REGISTER</string>
+    <string name="must_be_longer_than_6_characters">Must be longer than 6 characters</string>
+    <string name="email_email_com">email@email.com</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="camera">camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="addfile">addFile</string>
+    <string name="logout">Logout</string>
+    <string name="file_trans">FileTrans</string>
+
+    password
+</resources>

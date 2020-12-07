@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856661121858",
+    "firebase_url": "https://filetrans-39985.firebaseio.com",
+    "project_id": "filetrans-39985",
+    "storage_bucket": "filetrans-39985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856661121858:android:ebaf7bb7ce4b0624e606db",
+        "android_client_info": {
+          "package_name": "com.example.filetrans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856661121858-hia4ui83o8kiojvehqqlc30perc76rlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK897SE1IgR8Or-saalPB1E4UykdwXFrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856661121858-hia4ui83o8kiojvehqqlc30perc76rlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
